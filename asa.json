@@ -18,7 +18,7 @@
           "layout": 1,
           "buttontext": "<TextStyle.Red>Welcome</>",
           "title1": "Welcome to HARD ASA [RU][X3][PVE]",
-          "text1": "Section under development...\n\nThis is a project for those who are not looking for easy survival and are ready for any difficulties.\n\nA description of the settings can be found in the RATE section. Read the RULES carefully\n\n<TextStyle.Red><TextStyle.Red>Red Text</></>\n<TextStyle.Green><TextStyle.Green>Green Text</></>\n<TextStyle.Blue><TextStyle.Blue>Blue Text</></>\n<TextStyle.Yellow><TextStyle.Yellow>Yellow Text</></>\n<TextStyle.Orange><TextStyle.Orange>Orange Text</></>\n<TextStyle.Violet><TextStyle.Violet>Violet Text</></>\n<TextStyle.White><TextStyle.White>White Text</></>\n<TextStyle.Black><TextStyle.Black>Black Text</></> < Yes its Black Text on a Black background\n",
+          "text1": "Section under development...\n\nThis is a project for those who are not looking for easy survival and are ready for any difficulties.\n\nA description of the settings can be found in the RATE section. Read the RULES carefully\n",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
