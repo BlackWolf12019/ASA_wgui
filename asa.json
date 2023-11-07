@@ -24,10 +24,12 @@
       },
       {
         "tab2": {
-          "layout": 1,
+          "layout": 2,
           "buttontext": "Shop",
           "title1": "Left title",
-          "text1": "This text goes into the left box",
+          "title2": "Right title",
+          "text1": "",
+          "text2": "",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
