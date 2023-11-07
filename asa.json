@@ -45,7 +45,7 @@
           "layout": 1,
           "buttontext": "Rate",
           "title1": "Top left title",
-          "text1": "<TextStyle.Orange>This text goes into the top left box</>",
+          "text1": "<TextStyle.Orange>Rate</>",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       }
