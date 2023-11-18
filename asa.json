@@ -7,7 +7,7 @@
         "IconURL": "https://pic.survivalhost.org/images/2023/11/07/HC.png",
         "DisableIconText": true,
         "IconPosition": 3,
-        "IconTextColor": 0,
+        "IconTextColor": 7,
         "OpenOnStart": false,
         "OpenOnStartOnlyNewPlayers": true,
         "UpdateInterval": 12
